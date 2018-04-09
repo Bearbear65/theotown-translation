@@ -1446,8 +1446,8 @@
     <string name="dialog_disabletasks_title">課題を無効にする</string>
     <string name="dialog_disabletasks_text">あなたは複数の課題を却下したので、この都市の課題を無効にしたいですか？</string>
     <string name="control_disable">無効にする</string>
-    <string name="draft_arcdetriomphe00_title">Arc de Triomphe</string>
-    <string name="draft_arcdetriomphe00_text">The Arc de Triomphe in Paris honours those who fought and died in the French Revolutionary.</string>
+    <string name="draft_arcdetriomphe00_title">エトワール凱旋門</string>
+    <string name="draft_arcdetriomphe00_text">パリの凱旋門は、フランス革命で戦って死んだ人々への敬意をもとに作られた</string>
     <string name="featureselector_shortbuildtime">%1$sの建築時間削減</string>
     <string name="game_remaining_shortbuildtime">建築時間削減 残り%s</string>
     <string name="shop_open_features">ダイヤモンドを使用する</string>
@@ -1459,8 +1459,8 @@
 
     <string name="settings_saveonappswitch">アプリ変更時に保存する</string>
     <string name="settings_saveforscreenshot">スクリーンショット撮影時に保存する</string>
-    <string name="draft_eiffeltower00_title">Eiffel Tower</string>
-    <string name="draft_eiffeltower00_text">The Eiffel Tower in Paris is the most prominent landmark of France. The tower is 324 metres tall and was finished in 1889.</string>
+    <string name="draft_eiffeltower00_title">エッフェル塔</string>
+    <string name="draft_eiffeltower00_text">パリのエッフェル塔はフランスの最も有名なランドマークです。 塔の高さは324メートルで、1889年に完成した</string>
     <string name="dialog_wb_text02">あなたが%1$sから出ていた間に獲得したお金を収集しますか？\n\n%2$s</string>
     <string name="dialog_wb_cmdtake">得る</string>
     <string name="dialog_wb_cmdforfeit">失う</string>
@@ -1559,19 +1559,19 @@
     <string name="task_spend_money">%sͲ 使用する</string>
     <string name="task_spend_diamonds">%s ダイヤモンドを使用する</string>
     <string name="task_tap_screen">%s回 画面をタップしてください</string>
-    <string name="task_current">Current task</string>
+    <string name="task_current">現在の課題</string>
 
 
     <string name="dialog_adreward_title">報酬付き広告</string>
     <string name="dialog_adreward_text">広告を見て無料でいくつかのダイヤモンドを手に入れたいですか？</string>
     <string name="dialog_adreward_cmdwatch">今すぐ手に入れる</string>
     <string name="draftselector_titlelandmark">ランドマーク</string>
-    <string name="draft_bigben00_title">Big Ben</string>
-    <string name="draft_bigben00_text">Big Ben is a bell tower in London that is 96 m high and was built 1859.</string>
-    <string name="draft_angelofindependence00_title">Angel of Independence</string>
-    <string name="draft_angelofindependence00_text">The Angel of Independence is a monument in Mexico City that was built in 1910 to remember Mexico\'s War of Independence.</string>
-    <string name="draft_statueofliberty00_title">Statue of Liberty</string>
-    <string name="draft_statueofliberty00_text">The Statue of Liberty was a gift from the French to the Americans. It was inaugurated in 1886 and is 93 meters high.</string>
+    <string name="draft_bigben00_title">ビッグベン</string>
+    <string name="draft_bigben00_text">ビッグベンはロンドンの鐘楼で、高さは96mで1859年に建てられました</string>
+    <string name="draft_angelofindependence00_title">アンヘル独立記念塔</string>
+    <string name="draft_angelofindependence00_text">アンヘル独立記念塔はメキシコが独立まで歩んだ激動の過去を象徴に1910年に建設されたメキシコシティのモニュメントです</string>
+    <string name="draft_statueofliberty00_title">自由の女神</string>
+    <string name="draft_statueofliberty00_text">自由の女神は、フランスからアメリカ合衆国への贈り物でした。アメリカ合衆国の独立100周年を記念して送られ、高さは93メートルです</string>
     <string name="draft_decorustywatertower00_title">錆びた貯水塔</string>
     <string name="draft_decorustywatertower00_text">古い錆びた貯水塔。現在は使用されていないまま放置されている</string>
     <string name="draft_underground_wire00_title">地下電線</string>
@@ -1586,7 +1586,7 @@
 
     <string name="draft_aircraft_boneyard00_title">航空機の廃機場</string>
     <string name="draft_aircraft_boneyard00_text">退役した航空機のための場所。 汚いですが、収入があります</string>
-    <string name="notify_tutorial_reminder_title">Time to get started</string>
+    <string name="notify_tutorial_reminder_title">さあ、始めよう</string>
     <string name="notify_tutorial_reminder_text">ちょっと市長！、偉大な都市を建設するという使命を忘れましたか？</string>
     <string name="dialog_insufficientspace_title">容量が足りません</string>
     <string name="dialog_insufficientspace_text">容量があまり残っておりません (%,d MB)。\n\nこの容量だと街が出来なくなるかもしれません！</string>
@@ -1650,11 +1650,11 @@
     <string name="dialog_gallerypolicy_cmdcancel">同意しない</string>
     <string name="settings_pushnotifications">通知を送る</string>
     <string name="draft_leaningtowerofpisa00_title">ピサの斜塔</string>
-    <string name="draft_leaningtowerofpisa00_text">ピサの斜塔は、イタリアのピサ市にあるピサ大聖堂の鐘楼であります。 1372年に完成し、その高さは56メートルに達した。</string>
+    <string name="draft_leaningtowerofpisa00_text">ピサの斜塔は、イタリアのピサ市にあるピサ大聖堂の鐘楼であります。 1372年に完成し、その高さは56メートルに達した</string>
     <string name="draft_burjalarab00_title">ブルジュ・アル・アラブ</string>
-    <string name="draft_burjalarab00_text">ブルジュ・アル・アラブは、アラブ首長国連邦, ドバイにある「5つ星」の最高級ホテルです。 1999年に完成し、その高さ321メートルに達した.</string>
+    <string name="draft_burjalarab00_text">ブルジュ・アル・アラブは、アラブ首長国連邦, ドバイにある「5つ星」の最高級ホテルです。 1999年に完成し、その高さ321メートルに達した</string>
     <string name="draft_hearsttower00_title">ハースト・タワー</string>
-    <string name="draft_hearsttower00_text">ハースト・タワーは、アメリカ合衆国・ニューヨーク市のマンハッタンにある, 2006年に建設された超高層ビルである。 182メートルの高さです.</string>
+    <string name="draft_hearsttower00_text">ハースト・タワーは、アメリカ合衆国・ニューヨーク市のマンハッタンにある, 2006年に建設された超高層ビルである。 182メートルの高さです</string>
     <string name="draft_feature_landmarks02_title">ランドマーク III</string>
 
 
@@ -1674,11 +1674,11 @@
     <string name="draft_notify_easteregg_found00_text">おめでとうございます、あなたはイースターエッグを見つけれました:)</string>
 
 
-    <string name="dialog_removediamondbuildings_title">Remove diamond buildings</string>
-    <string name="dialog_removediamondbuildings_text">You selected %d diamond priced buildings for removal. Are you sure that you want to remove them? There\'s a move building tool if you just want to move them.</string>
-    <string name="settings_renderpollution">Render pollution</string>
+    <string name="dialog_removediamondbuildings_title">ダイヤモンド建物を取り除く</string>
+    <string name="dialog_removediamondbuildings_text">%dダイヤモンドを払って建築した建物を選択しました。本当にその建物を撤去しますか? 建物を移動させる手段もありますよ</string>
+    <string name="settings_renderpollution">汚染を表示する</string>
 
 
-    <string name="settings_cloudshadow">Cloud shadows</string>
+    <string name="settings_cloudshadow">曇影</string>
 
 </resources>
